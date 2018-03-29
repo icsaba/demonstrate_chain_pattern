@@ -37,4 +37,5 @@ class Junior(Employee, Observer):
         self.car = 'VW Jetta'
 
     def update(self, company):
+        self.salary = company.calculate_junior_salary()
         self.associates = [emp.name for emp in company.employees if emp.is_minion()]
