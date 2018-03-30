@@ -22,4 +22,4 @@ A real programmer realises that there are design patterns that could be useful d
 Final refactor step.
 
 ## Fifth code - sensei
-Overkilled code base, extending the programmer code with the Observer design patter. It's a litle bit too much but seems to be a great fun. The purpose of the observer patter is that, we should recalculate the CEO and the partners' salary when a new employee is added.
+Overkilled code base, extending the programmer code with the Observer design pattern. It's a little bit too much but seems to be a great fun. The purpose of the observer pattern is that, we should recalculate the CEO and the partners' salary when a new employee is added.
